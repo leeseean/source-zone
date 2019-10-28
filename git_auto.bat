@@ -1,3 +1,4 @@
+cd server
 git add .
 git add -A
 git add -u
