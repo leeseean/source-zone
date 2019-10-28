@@ -1,4 +1,4 @@
-cd server
+cd uploads
 git add .
 git add -A
 git add -u
